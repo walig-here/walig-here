@@ -8,7 +8,7 @@
 
 ## ⚙️ Tech stack
 
-🐍 **Python**, main backend language (or when something that must be done ASAP ;P)
+🐍 **Python**, main backend language (or when something that be done ASAP ;P)
 
 🌐 **TypeScript/HTML/CSS**, main frontend languages, mainly accompanied by React.
 
