@@ -12,8 +12,6 @@
 
 🌐 **TypeScript/HTML/CSS**, main frontend languages, mainly accompanied by React.
 
-☕ **Java**, secondary backend language. To keep some diversity ;)
-
 👨🏻‍💻 **C/C++**, for efficient & low level stuff.
 
 ## 🔎 Current interests
