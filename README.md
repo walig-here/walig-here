@@ -14,8 +14,14 @@
 
 👨🏻‍💻 **C/C++**, for efficient & low level stuff.
 
+🐋 **Docker**, for contenerization of applications and development environments.
+
 ## 🔎 Current interests
 
 📱 Progressive Web Apps
 
 📶 Computer networks
+
+⚛️ Web desktop apps with Electron
+
+🤖 LLM-based workflows & tool for software engineers
