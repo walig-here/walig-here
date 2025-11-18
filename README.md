@@ -4,7 +4,7 @@
 
 👉 A curious type of guy that's always asking: _how it's made?_ and _why it works?_ ;D. 
 
-👉 Currently Python developer at Nokia Solutions & Networks.
+👉 Currently Quantitative Technologist at Qube Research and Technology.
 
 ## ⚙️ Tech stack
 
